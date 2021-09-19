@@ -1,1 +1,1 @@
-# JB-Nucleon-Con-gurations
+# JB-Nucleon-Configurations
